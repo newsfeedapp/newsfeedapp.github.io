@@ -32,17 +32,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : News from everywhere
-    description                           : News sources from all around the world all in one place.
-    fontawesome_icon_name                 : globe-americas
-
-  - title                                 : Select your trusted sources
-    description                           : Pick your trusted news sources from different categories: business, entertainment, gaming, world, music, politics, science and nature, sport, technology.
-    fontawesome_icon_name                 : ballot-check
-
-  - title                                 : Bookmark for later
-    description                           : Bookmark the most interesting articles to read them later.
-    fontawesome_icon_name                 : bookmark # Find icons on fontawesome.com/icons.
+  # - title                                 : News from everywhere
+  #   description                           : News sources from all around the world all in one place.
+  #   fontawesome_icon_name                 : globe-americas
+  #
+  # - title                                 : Select your trusted sources
+  #   description                           : Pick your trusted news sources from different categories: business, entertainment, gaming, world, music, politics, science and nature, sport, technology.
+  #   fontawesome_icon_name                 : ballot-check
+  #
+  # - title                                 : Bookmark for later
+  #   description                           : Bookmark the most interesting articles to read them later.
+  #   fontawesome_icon_name                 : bookmark # Find icons on fontawesome.com/icons.
 
 # Theme Settings
 topbar_color                              : "#000000"
