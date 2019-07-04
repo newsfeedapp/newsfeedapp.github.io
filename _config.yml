@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : 
+your_name                                 :
 your_link                                 :
 your_city                                 : Paris
 email_address                             : getnewsfeedapp@@gmail.com
@@ -30,7 +30,7 @@ github_username                           :
 youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  : Choose you trusted news.
+features                                  :
 
   - title                                 : News from everywhere
     description                           : News sources from all around the world all in one place.
