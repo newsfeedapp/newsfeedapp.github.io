@@ -19,8 +19,8 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :
-your_link                                 :
+your_name                                 : p
+your_link                                 : www.paridebroggi.com
 your_city                                 : Paris
 email_address                             : getnewsfeedapp@@gmail.com
 facebook_username                         :
@@ -32,21 +32,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  # - title                                 : News from everywhere
-  #   description                           : News sources from all around the world all in one place.
-  #   fontawesome_icon_name                 : globe-americas
-  #
-  # - title                                 : Select your trusted sources
-  #   description                           : Pick your trusted news sources from different categories: business, entertainment, gaming, world, music, politics, science and nature, sport, technology.
-  #   fontawesome_icon_name                 : ballot-check
-  #
-  # - title                                 : Bookmark for later
-  #   description                           : Bookmark the most interesting articles to read them later.
-  #   fontawesome_icon_name                 : bookmark # Find icons on fontawesome.com/icons.
+  - title                                 : News from everywhere
+    description                           : News sources from all around the world all in one place.
+    fontawesome_icon_name                 : globe-americas
+
+  - title                                 : Choose what to read
+    description                           : Pick your trusted news sources from different categories.
+    fontawesome_icon_name                 : check-circle
+
+  - title                                 : Bookmark for later
+    description                           : Bookmark the most interesting articles to read them later.
+    fontawesome_icon_name                 : bookmark # Find icons on fontawesome.com/icons.
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#228AFF"
+topbar_transparency                       : 0.9
 topbar_title_color                        : "#ffffff"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
@@ -55,13 +55,13 @@ cover_overlay_transparency                : 1
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "ffffff"
+body_background_color                     : "#EFEFEF"
 
-link_color                                : "#1d63ea"
+link_color                                : "#228AFF"
 
 app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_price_color                           : "#000000"
+app_description_color                     : "#000000"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
@@ -72,7 +72,7 @@ feature_icons_background_color            : "#e6e6e6"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#228AFF"
 
 
 
