@@ -33,15 +33,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : News from everywhere
-    description                           : News sources from all around the world all in one place.
+    description                           : News sources from all around the world, all in one place.
     fontawesome_icon_name                 : globe-americas
 
   - title                                 : Choose what to read
-    description                           : Pick your trusted news sources from different categories.
+    description                           : Pick your trusted sources from different categories.
     fontawesome_icon_name                 : check-circle
 
   - title                                 : Bookmark for later
-    description                           : Bookmark the most interesting articles to read them later.
+    description                           : Bookmark the best articles to read them while relaxing.
     fontawesome_icon_name                 : bookmark # Find icons on fontawesome.com/icons.
 
 # Theme Settings
