@@ -1246,11 +1246,66 @@
     "language": "en",
     "url": "http://rss.cnn.com/rss/cnn_latest.rss",
     "logoUrl": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png"
+  },
+  {
+    "id": "105",
+    "name": "new-york-times",
+    "displayName": "New York Times",
+    "website": "nyt.com",
+    "categories": ["general"],
+    "description": "Breaking and world news",
+    "country": "US",
+    "language": "en",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "logoUrl": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-319373aaf4524d94d38aa599c56b8655.png"
+  },
+  {
+    "id": "106",
+    "name": "new-york-times-paul-krugman-column",
+    "displayName": "New York Times - Paul Krugman Column",
+    "website": "nyt.com",
+    "categories": ["general", "finance", "politics"],
+    "description": "Macroeconomics, trade and politics",
+    "country": "US",
+    "language": "en",
+    "url": "http://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml",
+    "logoUrl": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-319373aaf4524d94d38aa599c56b8655.png"
+  },
+  {
+    "id": "107",
+    "name": "new-york-times-sunday-review",
+    "displayName": "New York Times - Sunday Review",
+    "website": "nyt.com",
+    "categories": ["general", "politics"],
+    "description": "Weekly opinions essays and analysis",
+    "country": "US",
+    "language": "en",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml",
+    "logoUrl": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-319373aaf4524d94d38aa599c56b8655.png"
+  },
+  {
+    "id": "108",
+    "name": "new-york-times-thomas-friedman-column",
+    "displayName": "New York Times - Thomas L. Friedman",
+    "website": "nyt.com",
+    "categories": ["general", "technology"],
+    "description": "Foreign affairs, globalization and technology",
+    "country": "US",
+    "language": "en",
+    "url": "http://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml",
+    "logoUrl": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-319373aaf4524d94d38aa599c56b8655.png"
+  },
+  {
+    "id": "109",
+    "name": "new-york-times-art-design",
+    "displayName": "New York Times - Art & Design",
+    "website": "nyt.com",
+    "categories": ["design", "culture"],
+    "description": "Art, architecture and design",
+    "country": "US",
+    "language": "en",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+    "logoUrl": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-319373aaf4524d94d38aa599c56b8655.png"
   }
-
-
-
-
-
 
 ]
