@@ -948,6 +948,18 @@
     "logoUrl": "https://www.lazycatkitchen.com/wp-content/uploads/2017/09/apple-touch.png"
   },
   {
+    "id": "81",
+    "name": "bloomberg",
+    "displayName": "Bloomberg",
+    "website": "bloomberg.com",
+    "categories": ["business", "finance", "general"],
+    "description": "Business and markets news",
+    "country": "US",
+    "language": "en",
+    "url": "http://www.newslookup.com/rss/business/bloomberg.rss",
+    "logoUrl": "https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-180x180-c1a237984e.png"
+  },
+  {
     "id": "82",
     "name": "the-essential-food",
     "displayName": "The Essential Food",
@@ -1184,7 +1196,7 @@
     "description": "Quotidiano di News Mediaset",
     "country": "IT",
     "language": "it",
-    "url": " https://www.tgcom24.mediaset.it/rss/sport.xml",
+    "url": "https://www.tgcom24.mediaset.it/rss/sport.xml",
     "logoUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/27/cf/1d/27cf1da7-0234-fa9d-2d1e-7c23daabec5b/AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/230x0w.jpg"
   },
   {
@@ -1196,7 +1208,7 @@
     "description": "Quotidiano di News Mediaset",
     "country": "IT",
     "language": "it",
-    "url": " https://www.tgcom24.mediaset.it/rss/ultimissime.xml",
+    "url": "https://www.tgcom24.mediaset.it/rss/ultimissime.xml",
     "logoUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/27/cf/1d/27cf1da7-0234-fa9d-2d1e-7c23daabec5b/AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/230x0w.jpg"
   },
   {
@@ -1208,9 +1220,35 @@
     "description": "Quotidiano di News Mediaset",
     "country": "IT",
     "language": "it",
-    "url": " https://www.tgcom24.mediaset.it/rss/people",
+    "url": "https://www.tgcom24.mediaset.it/rss/people",
     "logoUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/27/cf/1d/27cf1da7-0234-fa9d-2d1e-7c23daabec5b/AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/230x0w.jpg"
+  },
+  {
+    "id": "103",
+    "name": "cnn",
+    "displayName": "CNN",
+    "website": "cnn.com",
+    "categories": ["general"],
+    "description": "US and world news",
+    "country": "US",
+    "language": "en",
+    "url": "http://rss.cnn.com/rss/edition.rss",
+    "logoUrl": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png"
+  },
+  {
+    "id": "104",
+    "name": "cnn-latest",
+    "displayName": "CNN - Latest",
+    "website": "cnn.com",
+    "categories": ["general"],
+    "description": "Breaking news",
+    "country": "US",
+    "language": "en",
+    "url": "http://rss.cnn.com/rss/cnn_latest.rss",
+    "logoUrl": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png"
   }
+
+
 
 
 
