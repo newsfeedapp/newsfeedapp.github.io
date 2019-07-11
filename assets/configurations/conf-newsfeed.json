@@ -1033,8 +1033,8 @@
   },
   {
     "id": "88",
-    "name": "new-york-magazine",
-    "displayName": "New York Magazine",
+    "name": "the-new-york-magazine",
+    "displayName": "The New York Magazine",
     "website": "nymag.com",
     "categories": ["magazine", "politics", "fashion"],
     "description": "News, politics, style",
@@ -1438,6 +1438,18 @@
     "language": "en",
     "url": "http://www.polygon.com/rss/index.xml",
     "logoUrl": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png"
+  },
+  {
+    "id": "121",
+    "name": "buzzfeed-news",
+    "displayName": "Buzzfeed News",
+    "website": "buzzfeednews.com",
+    "categories": ["General"],
+    "description": "Breaking new, original reporting",
+    "country": "US",
+    "language": "en",
+    "url": "http://www.buzzfeed.com/tech.xml",
+    "logoUrl": "http://www.buzzfeed.com/static-assets/img/apple-touch-icon.089c9565b06f3817e65e1202343d2ca2.png"
   }
 
 
