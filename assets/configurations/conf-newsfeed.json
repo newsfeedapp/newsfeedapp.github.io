@@ -1450,7 +1450,54 @@
     "language": "en",
     "url": "http://www.buzzfeed.com/tech.xml",
     "logoUrl": "http://www.buzzfeed.com/static-assets/img/apple-touch-icon.089c9565b06f3817e65e1202343d2ca2.png"
+  },
+  {
+      "id": "122",
+      "name": "9gag-awesome",
+      "displayName": "9GAG - Awesome",
+      "website": "9gag.com",
+      "categories": ["Fun"],
+      "description": "Go fun yourself",
+      "country": "US",
+      "language": "en",
+      "url": "https://9gag-rss.com/api/rss",
+      "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
+  },
+  {
+      "id": "123",
+      "name": "9gag-comic",
+      "displayName": "9GAG - Comic",
+      "website": "9gag.com",
+      "categories": ["Fun"],
+      "description": "Go fun yourself",
+      "country": "US",
+      "language": "en",
+      "url": "https://9gag-rss.com/api/rss/get?code=9GAGComic&format=2",
+      "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
+  },
+  {
+      "id": "124",
+      "name": "9gag-dark-humor",
+      "displayName": "9GAG - Dark Humor",
+      "website": "9gag.com",
+      "categories": ["Fun"],
+      "description": "Go fun yourself",
+      "country": "US",
+      "language": "en",
+      "url": "https://9gag-rss.com/api/rss/get?code=9GAGDarkHumor&format=2",
+      "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
+  },
+  {
+      "id": "125",
+      "name": "9gag-funny",
+      "displayName": "9GAG - Funny",
+      "website": "9gag.com",
+      "categories": ["Fun"],
+      "description": "Go fun yourself",
+      "country": "US",
+      "language": "en",
+      "url": "https://9gag-rss.com/api/rss/get?code=9GAGFunny&format=2",
+      "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
   }
-
 
 ]
