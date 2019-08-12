@@ -279,7 +279,7 @@
     "id": "25",
     "name": "reuters",
     "displayName": "Reuters",
-    "website": "bloomberg.com",
+    "website": "reuters.com",
     "categories": ["general"],
     "description": "US and international news",
     "country": "US",
@@ -948,18 +948,6 @@
     "logoUrl": "https://www.lazycatkitchen.com/wp-content/uploads/2017/09/apple-touch.png"
   },
   {
-    "id": "81",
-    "name": "bloomberg",
-    "displayName": "Bloomberg",
-    "website": "bloomberg.com",
-    "categories": ["business", "finance", "general"],
-    "description": "Business and markets news",
-    "country": "US",
-    "language": "en",
-    "url": "http://www.newslookup.com/rss/business/bloomberg.rss",
-    "logoUrl": "https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-180x180-c1a237984e.png"
-  },
-  {
     "id": "82",
     "name": "the-essential-food",
     "displayName": "The Essential Food",
@@ -1460,7 +1448,7 @@
       "description": "Go fun yourself",
       "country": "US",
       "language": "en",
-      "url": "https://9gag-rss.com/api/rss",
+      "url": "https://9gag-rss.com/api/rss/get?code=9GAGAwesome&format=2",
       "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
   },
   {
