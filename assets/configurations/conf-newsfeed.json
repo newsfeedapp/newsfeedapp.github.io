@@ -1502,7 +1502,7 @@
   {
     "id": "127",
     "name": "bbc-uk-news",
-    "displayName": "BBC - UK news",
+    "displayName": "BBC - UK News",
     "website": "bbc.com",
     "categories": ["general", "politics", "business"],
     "description": "British public service broadcaster",
@@ -1514,7 +1514,7 @@
   {
     "id": "128",
     "name": "bbc-world-news",
-    "displayName": "BBC - World news",
+    "displayName": "BBC - World News",
     "website": "bbc.com",
     "categories": ["world", "general"],
     "description": "British public service broadcaster",
