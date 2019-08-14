@@ -1486,6 +1486,78 @@
       "language": "en",
       "url": "https://9gag-rss.com/api/rss/get?code=9GAGFunny&format=2",
       "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/6c/53/996c53ef-691a-7e12-c41d-49a8fd7c3ae4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg"
+  },
+  {
+    "id": "126",
+    "name": "bbc-top-stories",
+    "displayName": "BBC - Top Stories",
+    "website": "bbc.com",
+    "categories": ["general", "politics"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "127",
+    "name": "bbc-uk-news",
+    "displayName": "BBC - UK news",
+    "website": "bbc.com",
+    "categories": ["general", "politics", "business"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "128",
+    "name": "bbc-world-news",
+    "displayName": "BBC - World news",
+    "website": "bbc.com",
+    "categories": ["world", "general"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "129",
+    "name": "bbc-science-environment",
+    "displayName": "BBC - Science & Environment",
+    "website": "bbc.com",
+    "categories": ["science"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "130",
+    "name": "bbc-technology",
+    "displayName": "BBC - Technology",
+    "website": "bbc.com",
+    "categories": ["technology"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "131",
+    "name": "bbc-entertainment-art",
+    "displayName": "BBC - Entertainment & Arts",
+    "website": "bbc.com",
+    "categories": ["culture", "entertainment", "media"],
+    "description": "British public service broadcaster",
+    "country": "UK",
+    "language": "en",
+    "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
   }
 
 ]
