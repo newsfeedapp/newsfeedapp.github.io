@@ -1558,6 +1558,18 @@
     "language": "en",
     "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
     "logoUrl": "https://static.bbci.co.uk/wwhp/1.139.0/responsive/img/apple-touch/apple-touch-180.jpg"
+  },
+  {
+    "id": "132",
+    "name": "fanpage",
+    "displayName": "Fanpage",
+    "website": "bbc.com",
+    "categories": ["general", "entertainment", "media"],
+    "description": "Indipendente, sociale, partecipativo",
+    "country": "IT",
+    "language": "it",
+    "url": "https://www.fanpage.it/feed/",
+    "logoUrl": "https://static.fanpage.it/site/img/wordpress/favicon/extra/news/apple-icon-152x152.png"
   }
 
 ]
