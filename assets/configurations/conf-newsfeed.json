@@ -1563,13 +1563,61 @@
     "id": "132",
     "name": "fanpage",
     "displayName": "Fanpage",
-    "website": "bbc.com",
+    "website": "fanpage.it",
     "categories": ["general", "entertainment", "media"],
     "description": "Indipendente, sociale, partecipativo",
     "country": "IT",
     "language": "it",
     "url": "https://www.fanpage.it/feed/",
     "logoUrl": "https://static.fanpage.it/site/img/wordpress/favicon/extra/news/apple-icon-152x152.png"
+  },
+  {
+    "id": "133",
+    "name": "cbs-news-top-stories",
+    "displayName": "CBS News - Top Stories",
+    "website": "cbsnews.com",
+    "categories": ["general"],
+    "description": "National and world breaking news",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.cbsnews.com/latest/rss/main/",
+    "logoUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=1.61f4ea54702d3f6151249940991456ff466a3fe0"
+  },
+  {
+    "id": "134",
+    "name": "cbs-news-technology",
+    "displayName": "CBS News - Technology",
+    "website": "cbsnews.com",
+    "categories": ["technology"],
+    "description": "National and world breaking news",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.cbsnews.com/latest/rss/technology",
+    "logoUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=1.61f4ea54702d3f6151249940991456ff466a3fe0"
+  },
+  {
+    "id": "135",
+    "name": "cbs-news-entertainment",
+    "displayName": "CBS News - Entertainment",
+    "website": "cbsnews.com",
+    "categories": ["entertainment", "media", "gossip"],
+    "description": "National and world breaking news",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.cbsnews.com/latest/rss/entertainment",
+    "logoUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=1.61f4ea54702d3f6151249940991456ff466a3fe0"
+  },
+  {
+    "id": "136",
+    "name": "cbs-news-politics",
+    "displayName": "CBS News - Politics",
+    "website": "cbsnews.com",
+    "categories": ["politics", "business"],
+    "description": "National and world breaking news",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.cbsnews.com/latest/rss/politics",
+    "logoUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=1.61f4ea54702d3f6151249940991456ff466a3fe0"
   }
 
 ]
