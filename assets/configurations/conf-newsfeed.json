@@ -1618,6 +1618,18 @@
     "language": "en",
     "url": "https://www.cbsnews.com/latest/rss/politics",
     "logoUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=1.61f4ea54702d3f6151249940991456ff466a3fe0"
+  },
+  {
+    "id": "137",
+    "name": "autoblog",
+    "displayName": "Autoblog",
+    "website": "autoblog.com",
+    "categories": ["sport", "entertainment"],
+    "description": "Car news and reviews",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.autoblog.com/rss.xml",
+    "logoUrl": "https://www.autoblog.com/v/f2e5dc62df6099d613418f4a1c0049a31d4fed75/img/favicon/apple-touch-icon-152x152.png?v=2.0.2"
   }
 
 ]
