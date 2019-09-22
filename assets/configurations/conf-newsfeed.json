@@ -1630,6 +1630,19 @@
     "language": "en",
     "url": "https://www.autoblog.com/rss.xml",
     "logoUrl": "https://www.autoblog.com/v/f2e5dc62df6099d613418f4a1c0049a31d4fed75/img/favicon/apple-touch-icon-152x152.png?v=2.0.2"
+  },
+  {
+    "id": "138",
+    "name": "apple-insider",
+    "displayName": "Apple Insider",
+    "website": "appleinsider.com",
+    "categories": ["technology"],
+    "description": "Rumors and news on Apple since 1997",
+    "country": "US",
+    "language": "en",
+    "url": "https://appleinsider.com/rss/news/",
+    "logoUrl": "https://photos5.appleinsider.com/v9/images/apple-touch-icon-144.png"
   }
+
 
 ]
