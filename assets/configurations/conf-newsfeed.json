@@ -1642,6 +1642,18 @@
     "language": "en",
     "url": "https://appleinsider.com/rss/news/",
     "logoUrl": "https://photos5.appleinsider.com/v9/images/apple-touch-icon-144.png"
+  },
+  {
+    "id": "139",
+    "name": "daring-fireball",
+    "displayName": "Daring Fireball",
+    "website": "daringfireball.net",
+    "categories": ["technology"],
+    "description": "A tech blog by John Gruber",
+    "country": "US",
+    "language": "en",
+    "url": "https://daringfireball.net/feeds/main",
+    "logoUrl": "http://daringfireball.net/graphics/apple-touch-icon.png"
   }
 
 
