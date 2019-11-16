@@ -1654,7 +1654,17 @@
     "language": "en",
     "url": "https://daringfireball.net/feeds/main",
     "logoUrl": "http://daringfireball.net/graphics/apple-touch-icon.png"
+  },
+  {
+    "id": "140",
+    "name": "trashtalk",
+    "displayName": "Trashtalk",
+    "website": "trashtalk.co",
+    "categories": ["sport"],
+    "description": "L'actualité Basket et NBA",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://trashtalk.co/feed/",
+    "logoUrl": "https://trashtalk.co/wp-content/uploads/2016/09/favicon.png"
   }
-
-
 ]
