@@ -949,15 +949,15 @@
   },
   {
     "id": "82",
-    "name": "the-essential-food",
-    "displayName": "The Essential Food",
-    "website": "theessentialfood.com",
+    "name": "marta-levantaci",
+    "displayName": "Marta Levantaci",
+    "website": "martalevantaci.com",
     "categories": ["food"],
     "description": "Healthy food for gourmet people",
     "country": "US",
     "language": "en",
-    "url": "https://www.theessentialfood.com/feed.xml",
-    "logoUrl": "http://www.theessentialfood.com/assets/favicons/android-icon-192x192.png"
+    "url": "https://www.martalevantaci.com/feed.xml",
+    "logoUrl": "http://www.martalevantaci.com/assets/favicons/android-icon-192x192.png"
   },
   {
     "id": "83",
