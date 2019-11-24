@@ -1666,5 +1666,53 @@
     "language": "fr",
     "url": "https://trashtalk.co/feed/",
     "logoUrl": "https://trashtalk.co/wp-content/uploads/2016/09/favicon.png"
+  },
+  {
+    "id": "141",
+    "name": "ouest-france-une",
+    "displayName": "Ouest France - À la une",
+    "website": "ouest-france.fr",
+    "categories": ["general"],
+    "description": "Toute l'actualité en direct",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml",
+    "logoUrl": "https://media.ouest-france.fr/v1/pictures/c1e53b40060544ad069e9bcb80c1695e-apple-touch-icon.png?client_id=cmsfront&sign=65ca41798b5fc22da12dea1b06dbd34f69c2ae1362fd347f463b9146393e92c0"
+  },
+  {
+    "id": "142",
+    "name": "ouest-france-bretagne",
+    "displayName": "Ouest France - Bretagne",
+    "website": "ouest-france.fr",
+    "categories": ["general"],
+    "description": "Toute l'actualité en direct",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml?region=bretagne",
+    "logoUrl": "https://media.ouest-france.fr/v1/pictures/c1e53b40060544ad069e9bcb80c1695e-apple-touch-icon.png?client_id=cmsfront&sign=65ca41798b5fc22da12dea1b06dbd34f69c2ae1362fd347f463b9146393e92c0"
+  },
+  {
+    "id": "143",
+    "name": "ouest-france-normandie",
+    "displayName": "Ouest France - Normandie",
+    "website": "ouest-france.fr",
+    "categories": ["general"],
+    "description": "Toute l'actualité en direct",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml?region=normandie",
+    "logoUrl": "https://media.ouest-france.fr/v1/pictures/c1e53b40060544ad069e9bcb80c1695e-apple-touch-icon.png?client_id=cmsfront&sign=65ca41798b5fc22da12dea1b06dbd34f69c2ae1362fd347f463b9146393e92c0"
+  },
+  {
+    "id": "144",
+    "name": "ouest-france-pays-de-la-loire",
+    "displayName": "Ouest France - Pays de la Loire",
+    "website": "ouest-france.fr",
+    "categories": ["general"],
+    "description": "Toute l'actualité en direct",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml?region=pays-de-la-loire",
+    "logoUrl": "https://media.ouest-france.fr/v1/pictures/c1e53b40060544ad069e9bcb80c1695e-apple-touch-icon.png?client_id=cmsfront&sign=65ca41798b5fc22da12dea1b06dbd34f69c2ae1362fd347f463b9146393e92c0"
   }
 ]
