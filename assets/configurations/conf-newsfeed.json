@@ -1714,5 +1714,17 @@
     "language": "fr",
     "url": "https://www.ouest-france.fr/rss-en-continu.xml?region=pays-de-la-loire",
     "logoUrl": "https://media.ouest-france.fr/v1/pictures/c1e53b40060544ad069e9bcb80c1695e-apple-touch-icon.png?client_id=cmsfront&sign=65ca41798b5fc22da12dea1b06dbd34f69c2ae1362fd347f463b9146393e92c0"
+  },
+  {
+    "id": "145",
+    "name": "melty",
+    "displayName": "Melty",
+    "website": "melty.fr",
+    "categories": ["entertainment, media, lifestyle, music"],
+    "description": "News, tendances & youth culture",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.melty.fr/actu.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/2f/81/142f8180-7efd-7482-5939-01c6c115814e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/230x0w.png"
   }
 ]
