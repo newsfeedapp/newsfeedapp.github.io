@@ -1726,5 +1726,17 @@
     "language": "fr",
     "url": "https://www.melty.fr/actu.rss",
     "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/2f/81/142f8180-7efd-7482-5939-01c6c115814e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/230x0w.png"
+  },
+  {
+    "id": "146",
+    "name": "Nice Matin",
+    "displayName": "Nice Matin",
+    "website": "nicematin.com",
+    "categories": ["general"],
+    "description": "Actualités et infos en direct",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.nicematin.com/rss",
+    "logoUrl": "https://cdn.assets03.nicematin.com/assets/nm/favicons/nicematin/apple-touch-icon-180x180.png?v=2.361"
   }
 ]
