@@ -1738,5 +1738,66 @@
     "language": "fr",
     "url": "https://www.nicematin.com/rss",
     "logoUrl": "https://cdn.assets03.nicematin.com/assets/nm/favicons/nicematin/apple-touch-icon-180x180.png?v=2.361"
+  },
+  {
+    "id": "147",
+    "name": "rsi-news",
+    "displayName": "RSI News",
+    "website": "rsi.ch/news",
+    "categories": ["general"],
+    "description": "Informazioni in tempo reale",
+    "country": "CH",
+    "language": "it",
+    "url": "https://www.rsi.ch/news/?f=rss",
+    "logoUrl": "https://www.rsi.ch/static/ico/apple-touch-icon-144-precomposed.png"
+  },
+  {
+    "id": "148",
+    "name": "rsi-sport",
+    "displayName": "RSI Sport",
+    "website": "rsi.ch/sport",
+    "categories": ["sport"],
+    "description": "Informazioni in tempo reale",
+    "country": "CH",
+    "language": "it",
+    "url": "https://www.rsi.ch/sport/?f=rss",
+    "logoUrl": "https://www.rsi.ch/static/ico/apple-touch-icon-144-precomposed.png"
+  },
+  {
+    "id": "149",
+    "name": "letemps",
+    "displayName": "Le Temps",
+    "website": "letemps.ch",
+    "categories": ["general"],
+    "description": "Site d'information suisse",
+    "country": "CH",
+    "language": "fr",
+    "url": "https://www.letemps.ch/feed",
+    "logoUrl": "https://assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-152x152.png"
+  },
+  {
+    "id": "150",
+    "name": "rts-info",
+    "displayName": "RTS Info",
+    "website": "rts.ch/info",
+    "categories": ["general"],
+    "description": "Radio Télévision Suisse francophone",
+    "country": "CH",
+    "language": "fr",
+    "url": "http://www.rts.ch/info/toute-info/?format=rss/news",
+    "logoUrl": "https://www.rts.ch/hummingbird-static/images/favicon/rts/180x180.png"
+  },
+  {
+    "id": "151",
+    "name": "srf-info",
+    "displayName": "SRF Info",
+    "website": "srf.ch/info",
+    "categories": ["general"],
+    "description": "Schweizer Radio und Fernsehen",
+    "country": "CH",
+    "language": "ge",
+    "url": "https://www.srf.ch/news/bnf/rss/1646",
+    "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/favicons/apple-touch-icon-180x180.png"
   }
 ]
+
