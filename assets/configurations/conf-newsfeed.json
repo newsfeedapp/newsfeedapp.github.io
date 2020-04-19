@@ -69,7 +69,7 @@
     "country": "IT",
     "language": "it",
     "url": "http://feed.lastampa.it/Homepage.rss",
-    "logoUrl": "https://www.lastampa.it/icon152.png"
+    "logoUrl": "https://www.lastampastatic.it/cless/lastampa/2019-v1/img/apple-touch-icon-180x180.png"
   },
   {
     "id": "7",
@@ -357,7 +357,7 @@
     "country": "US",
     "language": "en",
     "url": "https://www.ccn.com/feed",
-    "logoUrl": "https://cdn.ccn.com/wp-content/uploads/2017/12/cropped-favicon-4-180x180.png"
+    "logoUrl": "https://www.ccn.com/wp-content/uploads/2020/01/cropped-newlimitedfaviconccn-180x180.png"
   },
   {
     "id": "32",
@@ -429,7 +429,7 @@
     "country": "FR",
     "language": "fr",
     "url": "http://www.lefigaro.fr/rss/figaro_actualites.xml",
-    "logoUrl": "https://a.f1g.fr/f/img/favicon/apple-touch-icon.png?v20190701121148"
+    "logoUrl": "https://www.lefigaro.fr/static/favicon/apple-touch-icon.png?v=e8c193bde2c5ecff4fce14ec9724883e9d9d945c"
   },
   {
     "id": "38",
@@ -825,7 +825,7 @@
     "country": "IT",
     "language": "it",
     "url": "https://www.liberoquotidiano.it/rss.jsp?sezione=1",
-    "logoUrl": "http://www.liberoquotidiano.it/favicon_1.ico"
+    "logoUrl": "https://www.liberoquotidiano.it/assets/images/favicon_1.ico"
   },
   {
     "id": "71",
@@ -845,7 +845,7 @@
     "displayName": "The Guardian",
     "website": "theguardian.com",
     "categories": ["general"],
-    "description": "News, sport and opinions",
+    "description": "The world's leading liberal voice",
     "country": "UK",
     "language": "en",
     "url": "https://www.theguardian.com/uk/rss",
@@ -909,7 +909,7 @@
     "country": "IT",
     "language": "it",
     "url": "https://www.panorama.it/feed/",
-    "logoUrl": "https://www.panorama.it/wp-content/themes/panorama/images/apple-touch-icon-precomposed.png"
+    "logoUrl": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMDU1MTE1My8yMDAweC5wbmciLCJleHBpcmVzX2F0IjoxNTk1NDA4OTY3fQ.bbOahNFIpu1WMkAFd9MJwinWoTsiwN18soUUpRjh87c/img.png?width=192&height=192"
   },
   {
     "id": "78",
@@ -1798,6 +1798,90 @@
     "language": "ge",
     "url": "https://www.srf.ch/news/bnf/rss/1646",
     "logoUrl": "https://www.srf.ch/extension/srf_shared/design/standard/images/favicons/apple-touch-icon-180x180.png"
+  },
+  {
+    "id": "153",
+    "name": "swissinfo-eng-top-news",
+    "displayName": "Swissinfo - eng - Top News",
+    "website": "swissinfo.ch",
+    "categories": ["general"],
+    "description": "From Switzerland about Switzerland",
+    "country": "CH",
+    "language": "en",
+    "url": "https://www.swissinfo.ch/service/eng/rssxml/latest-news/rss",
+    "logoUrl": "https://www.swissinfo.ch/static/Themes/basic/img/logos/swi_144x144.png"
+  },
+  {
+    "id": "154",
+    "name": "swissinfo-eng-sci-tech",
+    "displayName": "Swissinfo - eng - Science & Tech",
+    "website": "swissinfo.ch",
+    "categories": ["technology"],
+    "description": "From Switzerland about Switzerland",
+    "country": "CH",
+    "language": "en",
+    "url": "https://www.swissinfo.ch/service/eng/rssxml/sci-tech/rss",
+    "logoUrl": "https://www.swissinfo.ch/static/Themes/basic/img/logos/swi_144x144.png"
+  },
+  {
+    "id": "155",
+    "name": "swissinfo-eng-business",
+    "displayName": "Swissinfo - eng - Business",
+    "website": "swissinfo.ch",
+    "categories": ["business"],
+    "description": "From Switzerland about Switzerland",
+    "country": "CH",
+    "language": "en",
+    "url": "https://www.swissinfo.ch/service/eng/rssxml/business/rss",
+    "logoUrl": "https://www.swissinfo.ch/static/Themes/basic/img/logos/swi_144x144.png"
+  },
+  {
+    "id": "156",
+    "name": "the-guardian-economics",
+    "displayName": "The Guardian - Economics",
+    "website": "theguardian.com",
+    "categories": ["general, business, finance"],
+    "description": "The world's leading liberal voice",
+    "country": "UK",
+    "language": "en",
+    "url": "https://www.theguardian.com/business/economics/rss",
+    "logoUrl": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png"
+  },
+  {
+    "id": "157",
+    "name": "the-guardian-world",
+    "displayName": "The Guardian - World News",
+    "website": "theguardian.com",
+    "categories": ["general, business, finance"],
+    "description": "The world's leading liberal voice",
+    "country": "UK",
+    "language": "en",
+    "url": "https://www.theguardian.com/world/rss",
+    "logoUrl": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png"
+  },
+  {
+    "id": "158",
+    "name": "the-guardian-sport",
+    "displayName": "The Guardian - Sport",
+    "website": "theguardian.com",
+    "categories": ["sport"],
+    "description": "The world's leading liberal voice",
+    "country": "UK",
+    "language": "en",
+    "url": "https://www.theguardian.com/sport/rss",
+    "logoUrl": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png"
+  },
+  {
+    "id": "159",
+    "name": "the-guardian-opinions",
+    "displayName": "The Guardian - Opinions",
+    "website": "theguardian.com",
+    "categories": ["general"],
+    "description": "The world's leading liberal voice",
+    "country": "UK",
+    "language": "en",
+    "url": "https://www.theguardian.com/uk/commentisfree/rss",
+    "logoUrl": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png"
   }
 ]
 
