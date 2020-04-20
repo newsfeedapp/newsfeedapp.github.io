@@ -825,7 +825,7 @@
     "country": "IT",
     "language": "it",
     "url": "https://www.liberoquotidiano.it/rss.jsp?sezione=1",
-    "logoUrl": "https://www.liberoquotidiano.it/assets/images/favicon_1.ico"
+    "logoUrl": "https://www.telegramitalia.it/wp-content/uploads/2016/04/816204972_26880_5800130126280306636.jpg"
   },
   {
     "id": "71",
@@ -1882,6 +1882,79 @@
     "language": "en",
     "url": "https://www.theguardian.com/uk/commentisfree/rss",
     "logoUrl": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png"
+  },
+  {
+    "id": "160",
+    "name": "numerama",
+    "displayName": "Numerama",
+    "website": "numerama.com",
+    "categories": ["technology"],
+    "description": "L'avenir est inattendu",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.numerama.com/feed/",
+    "logoUrl": "https://www.numerama.com/content/themes/project-n-theme/assets/images/favicons/apple-icon-152x152.png"
+  },
+  {
+    "id": "161",
+    "name": "frandroid",
+    "displayName": "Frandroid",
+    "website": "frandroid.com",
+    "categories": ["technology"],
+    "description": "S’informer, comparer et acheter",
+    "country": "FR",
+    "language": "fr",
+    "url": "https://www.frandroid.com/feed",
+    "logoUrl": "https://www.frandroid.com/wp-content/themes/humanoid-redesign/assets/images/2019-redesign/logos/favicons/apple-touch-icon.png"
+  },
+  {
+    "id": "163",
+    "name": "apple-newsroom",
+    "displayName": "Apple Newsroom",
+    "website": "apple.com",
+    "categories": ["technology"],
+    "description": "Official newsroom feed",
+    "country": "US",
+    "language": "en",
+    "url": "https://www.apple.com/newsroom/rss-feed.rss",
+    "logoUrl": "https://logodix.com/logo/469767.png"
+  },
+  {
+    "id": "164",
+    "name": "ispazio",
+    "displayName": "iSpazio",
+    "website": "ispazio.net",
+    "categories": ["technology"],
+    "description": "Notizie su iPhone",
+    "country": "IT",
+    "language": "it",
+    "url": "https://www.ispazio.net/feed",
+    "logoUrl": "https://www.ispazio.net/wp-content/uploads/2019/09/cropped-Logo-Icona-iSpazio-2019-180x180.png"
+  },
+  {
+    "id": "165",
+    "name": "hackaday",
+    "displayName": "Hackaday",
+    "website": "hackaday.com",
+    "categories": ["technology"],
+    "description": "For engineering enthusiasts",
+    "country": "US",
+    "language": "en",
+    "url": "https://hackaday.com/feed",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Hackaday_logo.png"
+  },
+  {
+    "id": "166",
+    "name": "the-critic",
+    "displayName": "The Critic",
+    "website": "thecritic.co.uk",
+    "categories": ["culture, lifestyle, music, media, politics, general"],
+    "description": "Politics, ideas, art and literature",
+    "country": "UK",
+    "language": "en",
+    "url": "https://thecritic.co.uk/feed/",
+    "logoUrl": "https://i1.sndcdn.com/avatars-GU8vFXvEM8FKI1rI-gzs56Q-t500x500.jpg"
   }
 ]
+
 
