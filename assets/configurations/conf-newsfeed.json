@@ -1965,7 +1965,19 @@
     "country": "IT",
     "language": "it",
     "url": "https://www.ilgiorno.it/rss/",
-    "logoUrl": "https://i1.sndcdn.com/avatars-GU8vFXvEM8FKI1rI-gzs56Q-t500x500.jpg"
+    "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/1a/45/fb1a4588-bd9a-fde2-b609-8a7cfa0e16f3/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/230x0w.png"
+  },
+  {
+    "id": "168",
+    "name": "la-prealpina",
+    "displayName": "La Prealpina",
+    "website": "ilgiorno.it",
+    "categories": ["politics, general"],
+    "description": "Quotidiano di Varese, Altomilanese e Vco",
+    "country": "IT",
+    "language": "it",
+    "url": "https://www.prealpina.it/rss.xml",
+    "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/00/50/d900505f-8978-de50-8a2b-95e0a860c602/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/230x0w.png"
   }
 ]
 
