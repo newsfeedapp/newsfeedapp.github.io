@@ -1954,6 +1954,18 @@
     "language": "en",
     "url": "https://thecritic.co.uk/feed/",
     "logoUrl": "https://i1.sndcdn.com/avatars-GU8vFXvEM8FKI1rI-gzs56Q-t500x500.jpg"
+  },
+  {
+    "id": "167",
+    "name": "il-giorno",
+    "displayName": "Il Giorno",
+    "website": "ilgiorno.it",
+    "categories": ["politics, general"],
+    "description": "Quotidiano di Milano, notizie della Lombardia",
+    "country": "IT",
+    "language": "it",
+    "url": "https://www.ilgiorno.it/rss/",
+    "logoUrl": "https://i1.sndcdn.com/avatars-GU8vFXvEM8FKI1rI-gzs56Q-t500x500.jpg"
   }
 ]
 
