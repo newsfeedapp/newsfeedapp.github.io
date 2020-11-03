@@ -949,15 +949,15 @@
   },
   {
     "id": "82",
-    "name": "marta-levantaci",
-    "displayName": "Marta Levantaci",
-    "website": "martalevantaci.com",
+    "name": "marta-in-the-jar",
+    "displayName": "Marta in the jar",
+    "website": "martainthejar.com",
     "categories": ["food"],
-    "description": "Healthy food for gourmet people",
+    "description": "Eating since 1987",
     "country": "US",
     "language": "en",
-    "url": "https://www.martalevantaci.com/feed.xml",
-    "logoUrl": "http://www.martalevantaci.com/assets/favicons/android-icon-192x192.png"
+    "url": "https://www.martainthejar.com/feed",
+    "logoUrl": "http://www.martainthejar.com/wp-content/uploads/2020/10/cropped-Schermata-2020-10-08-alle-00.25.05-180x180.png"
   },
   {
     "id": "83",
@@ -1980,5 +1980,3 @@
     "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/00/50/d900505f-8978-de50-8a2b-95e0a860c602/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/230x0w.png"
   }
 ]
-
-
